@@ -6,6 +6,3 @@ categories: jekyll update
 ---
 
 Hey Damiano Ciao John
-
-bayesian models of cognition
-thomas bayes probably ate carrots 
