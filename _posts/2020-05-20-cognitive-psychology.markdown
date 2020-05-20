@@ -5,5 +5,7 @@ date:   2020-05-20 20:55:38 +0100
 categories: jekyll update
 ---
 
-Hey Damiano
-Ciao John
+Hey Damiano Ciao John
+
+bayesian models of cognition
+thomas bayes probably ate carrots 
